@@ -15,6 +15,6 @@ jobs:
       - name: Say Date
         run: | 
           date
-      -name: Show files in directory
+      - name: Show files in directory
         run: |
           ls
